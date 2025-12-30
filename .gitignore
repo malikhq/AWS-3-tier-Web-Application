@@ -3,4 +3,5 @@
 **/.terraform
 **/.trash
 **/builds/
+
 **/id_rsa*
