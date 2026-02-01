@@ -1,5 +1,6 @@
 # AWS Scalable Web Application Architecture
 
+
 This Terraform configuration sets up a scalable AWS web application architecture using modular Terraform configurations. It includes the necessary resources such as VPC, EC2 instances, ALB, RDS, and S3 buckets, with a focus on scalability, fault tolerance, and cost efficiency.
 
 ## A visual representation of the solution  
@@ -221,5 +222,6 @@ Creates an S3 bucket with versioning and encryption.
 
 - **NAT Gateway**: Allows private subnet instances to access the internet while remaining inaccessible from the public internet.
 - **Security**: Ensure sensitive data like database passwords are managed securely. Consider using AWS Secrets Manager or SSM Parameter Store for production environments.
+
 
 
