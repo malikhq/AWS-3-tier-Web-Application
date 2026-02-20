@@ -5,6 +5,7 @@ This Terraform configuration sets up a scalable AWS web application architecture
 ## A visual representation of the solution  
 <img src="IMG_3753.png" alt="Alt text">
 
+
 ## Architecture Overview
 
 The architecture includes:
@@ -221,6 +222,7 @@ Creates an S3 bucket with versioning and encryption.
 
 - **NAT Gateway**: Allows private subnet instances to access the internet while remaining inaccessible from the public internet.
 - **Security**: Ensure sensitive data like database passwords are managed securely. Consider using AWS Secrets Manager or SSM Parameter Store for production environments.
+
 
 
 
