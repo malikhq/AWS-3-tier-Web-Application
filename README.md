@@ -5,7 +5,6 @@ This Terraform configuration sets up a scalable AWS web application architecture
 ## A visual representation of the solution  
 <img src="IMG_3753.png" alt="Alt text">
 
-
 ## Architecture Overviews
 
 The architecture includes:
