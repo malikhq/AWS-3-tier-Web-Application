@@ -65,7 +65,6 @@ This document outlines the security best practices implemented in the AWS web ap
   - Enable server-side encryption for S3 buckets.
   - Use encrypted storage for RDS.
 
-
 ---
 
 By following these security best practices, the AWS web application architecture is designed to protect sensitive data and resources effectively while maintaining high availability and scalability.
