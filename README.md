@@ -15,7 +15,6 @@ The architecture includes:
 - **S3**: Object storage for static content.
 - **NAT Gateway**: Allows private instances to access the internet.
 
-
 # AWS Web Application Architecture - Security Best Practices
 
 This document outlines the security best practices implemented in the AWS web application architecture. These practices ensure that the architecture is secure, scalable, and resilient, protecting sensitive data and resources from unauthorized access and potential threats.
