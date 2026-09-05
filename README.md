@@ -67,7 +67,6 @@ This document outlines the security best practices implemented in the AWS web ap
 By following these security best practices, the AWS web application architecture is designed to protect sensitive data and resources effectively while maintaining high availability and scalability.
 
 ## File Structure
-
     ├── infrastructure
     │ ├── main.tf
     │ ├── variables.tf
